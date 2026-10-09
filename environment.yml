@@ -11,6 +11,9 @@ dependencies:
   - pandas
   - MDAnalysis>=1.1.1
   - pymbar>=4.0.1
+  - pytest
+  - pytest-mock
+  - biopython
   - pip:
     - 'git+https://github.com/MauriceKarrenbrock/PythonFSDAM.git'
     - 'git+https://github.com/MauriceKarrenbrock/PythonAuxiliaryFunctions'
